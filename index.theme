@@ -1,0 +1,5 @@
+name=lightdm-webkit-theme-odysee
+description=An Odysee inspired theme
+engine=lightdm-webkit2-greeter
+url=src/index.html
+session=awesome
