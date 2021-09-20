@@ -5,6 +5,9 @@ function setAvatar(avatar) {
     let img = document.createElement('img');
     img.src = avatar;
     document.getElementById('user_avatar').appendChild(img);
+    let img1 = document.createElement('img');
+    img1.src = avatar;
+    document.getElementById('small_user_avatar').appendChild(img1);
 }
 
 function setUsername(username) {
