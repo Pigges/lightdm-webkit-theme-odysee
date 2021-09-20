@@ -13,9 +13,9 @@ if (!window.lightdm) {
       "default_session": 'awesome',
       "lock_hint": false,
       "users": [
-        {"display_name":"Spaceman","language":"en_US.utf8","real_name":"Odysee","layout":null,"image":"img/default-user.png","home_directory":"/home/captain","name":"captain","logged_in":false,"session":"deepin"},
-        {"display_name":"GClooney","language":"en_US.utf8","real_name":"George Clooney","layout":null,"image":"img/default-user.png","home_directory":"/home/gclooney","name":"gclooney","logged_in":false,"session":"xfce"},
-        {"display_name":"LannisterX","language":"en_US.utf8","real_name":"Jaime Lannister","layout":null,"image":"img/default-user.png","home_directory":"/home/lannisterx","name":"lannisterx","logged_in":false,"session":"gnome"}
+        {"display_name":"Spaceman","language":"en_US.utf8","real_name":"Odysee","layout":null,"image":"src/img/default-user.png","home_directory":"/home/captain","name":"captain","logged_in":false,"session":"deepin"},
+        {"display_name":"GClooney","language":"en_US.utf8","real_name":"George Clooney","layout":null,"image":"src/img/default-user.png","home_directory":"/home/gclooney","name":"gclooney","logged_in":false,"session":"xfce"},
+        {"display_name":"LannisterX","language":"en_US.utf8","real_name":"Jaime Lannister","layout":null,"image":"src/img/default-user.png","home_directory":"/home/lannisterx","name":"lannisterx","logged_in":false,"session":"gnome"}
       ],
       "sessions": [
         {"name":"Awesome","key":"awesome","comment":"Awesome Desktop Environment"},
